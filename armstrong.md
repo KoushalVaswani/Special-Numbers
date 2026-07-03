@@ -28,9 +28,4 @@ Currently, the repository supports the following languages:
 
 ---
 
-## 💻 How to Run
 
-### 1. Python
-Make sure you have Python installed, then run:
-```bash
-python armstrong.py
