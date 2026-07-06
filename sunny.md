@@ -11,20 +11,20 @@ $$ \sqrt{N + 1} = \text{Integer} $$
 ## Examples
 
 *   **3 is a Sunny Number:**  
-    $$3 + 1 = 4$$  
-    $$ \sqrt{4} = 2 $$ (which is an integer)
+    3 + 1 = 4  
+    sqrt{4} = 2 (which is an integer)
 
 *   **8 is a Sunny Number:**  
-    $$8 + 1 = 9$$  
-    $$ \sqrt{9} = 3 $$ (which is an integer)
+    8 + 1 = 9 
+    sqrt{9} = 3 (which is an integer)
 
 *   **15 is a Sunny Number:**  
-    $$15 + 1 = 16$$  
-    $$ \sqrt{16} = 4 $$ (which is an integer)
+    15 + 1 = 16 
+    sqrt{16} = 4 (which is an integer)
 
 *   **5 is NOT a Sunny Number:**  
-    $$5 + 1 = 6$$  
-    $$ \sqrt{6} \approx 2.44 $$ (which is not an integer)
+    5 + 1 = 6
+    sqrt{6} = approx 2.44 (which is not an integer)
 
 ---
 
